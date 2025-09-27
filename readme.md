@@ -28,13 +28,13 @@ This project implements a robust sentiment analysis system capable of analyzing 
 
 The sentiment analyzer demonstrates excellent performance across various metrics:
 
-![Positive And Negative Values](src/graph1.png)
+![Positive And Negative Values](Src/graph1.png)
 *Training and validation accuracy over epochs*
 
-![Confusion Matrix](src/graph2.png)
+![Confusion Matrix](Src/graph2.png)
 *Model confusion matrix showing classification results*
 
-![Feature Importance](src/graph3.png)
+![Feature Importance](Src/graph3.png)
 *Feature importance visualization*
 
 ## 🏃‍♂️ Quick Start
