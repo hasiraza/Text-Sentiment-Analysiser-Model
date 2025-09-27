@@ -122,23 +122,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Machine Learning
-*.pkl
-*.joblib
-*.h5
-*.hdf5
-models/
-checkpoints/
-logs/
 
-# Data files
-*.csv
-*.json
-*.xml
-*.xlsx
-*.xls
-data/
-datasets/
 
 # IDE
 .vscode/
@@ -147,15 +131,3 @@ datasets/
 *.swo
 *~
 
-# OS
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Temporary files
-*.tmp
-*.temp
